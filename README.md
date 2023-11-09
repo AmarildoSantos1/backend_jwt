@@ -1,8 +1,3 @@
-# KImóveis
-
-### Sobre
-
-KImóveis é uma API desenvolvida para uma imobiliária gerenciar seus imóveis, usuários e agendamentos. Este projeto foi desenvolvido durante o módulo de backend na Kenzie Academy Brasil.
 
 
 ### Tecnologias Utilizadas
